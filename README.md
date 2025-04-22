@@ -1,44 +1,73 @@
-# Blinkit-GroceryData-Sales-Analysis-PowerBi-Project
+# 🛒 Blinkit Grocery Data Sales Analysis – Power BI Project
+
 ![Sales Dashboard](https://raw.githubusercontent.com/Kalyani2712/Blinkit-GroceryData-Sales-Analysis-PowerBi-Project/main/SalesDashboardImage.png)
+![Summary Tile](https://raw.githubusercontent.com/Kalyani2712/Blinkit-GroceryData-Sales-Analysis-PowerBi-Project/main/SummaryTile.png)
 
-## Project Objective:-
+## 🎯 Project Objective
 
-This Power BI dashboard aims to analyze the dataset and generate a comprehensive report to facilitate strategic decision-making for stakeholders. The goal is to provide real-time insights into various matrices such as sales performance, product distribution, and customer feedback on Blinkit.
+This Power BI dashboard analyzes Blinkit's grocery sales data to help stakeholders make data-driven decisions. It offers real-time insights into:
 
-Steps include:-
+- 🧾 Sales performance  
+- 📦 Product distribution  
+- 💬 Customer feedback  
 
-Data Collection: Gathered data from various reliable websites to ensure comprehensive coverage of sales information.
-Data Loading and Cleaning: The collected data was imported into Power BI.
+---
 
-Cleaned the data by Removing unnecessary columns and duplicates.
-Handling missing values. Changing data types as needed.
-Data Analysis: Utilized DAX functions, measures, and calculated columns to perform detailed analysis.
+## 🔧 Steps Involved
 
-🎖️Key Metrics Analyzed:-
+1. **Data Collection**  
+   - Gathered data from reliable online sources to cover a broad view of Blinkit's sales activity.
 
-Total Sales: : $1.20 M
-Average Sales: $141
-Number of Items Sold: 8,523
-Average Customer Rating: 3.9
+2. **Data Loading and Cleaning**  
+   - Imported data into Power BI.  
+   - Removed unnecessary columns and duplicates.  
+   - Handled missing values and corrected data types.
 
-✅Insights:
+3. **Data Analysis**  
+   - Created calculated columns and measures using DAX.  
+   - Designed insightful and interactive visualizations.
 
-🎖️Sales Performance:-
+---
 
-Low-fat items make up 64.6% of total sales, significantly outperforming regular items.
-The top-selling categories are Fruits and Vegetables, and Snack Foods, each generating ₹0.18M in sales.
-Stores established in 2018 have generated the highest revenue at $205K.
+## 📊 Key Metrics Analyzed
 
-🎖️Geographical and Store Size Analysis:-
+| Metric                   | Value     |
+|--------------------------|-----------|
+| 💰 Total Sales           | $1.20 M   |
+| 📈 Average Sales         | $141      |
+| 📦 Items Sold            | 8,523     |
+| 🌟 Avg. Customer Rating  | 3.9       |
 
-Tier 3 cities are leading in sales performance.
-Medium-sized stores contribute the highest sales at 42.3% of total sales, followed by small-sized stores at 37%.
+---
 
-🎖️Recommendations:-
+## 💡 Key Insights
 
-Increase inventory and marketing efforts for low-fat items and top-selling categories like Fruits, Vegetables, and Snacks to leverage their popularity.
-Focus on expanding and supporting stores established in 2018 as they show higher revenue potential.
-Consider strategic investments in medium-sized stores due to their significant contribution to overall sales.
-Develop targeted marketing campaigns and tailor product offerings to Tier 3 cities to further capitalize on their high sales performance.
-Investigate customer feedback to improve the average customer rating of 3.9 and enhance overall customer satisfaction.
+### 🏅 Sales Performance
+- **Low-fat items** dominate sales, accounting for **64.6%** of total sales.
+- **Top categories:**  
+  - 🥬 Fruits & Vegetables  
+  - 🍿 Snack Foods (₹0.18M each in sales)
+- Stores established in **2018** generated the **highest revenue** ($205K).
 
+### 🌍 Geographical & Store Size Analysis
+- **Tier 3 cities** lead in overall sales performance.
+- **Medium-sized stores** contribute **42.3%** of total sales, followed by **small stores** (37%).
+
+---
+
+## ✅ Recommendations
+
+- 📦 Increase inventory & marketing for **low-fat** and **top-selling categories**.
+- 🏬 Focus on expanding **stores established in 2018** due to high revenue.
+- 🏪 Invest more in **medium-sized stores** for maximum sales impact.
+- 🏙️ Tailor offerings for **Tier 3 cities** with targeted marketing.
+- ⭐ Improve **customer satisfaction** to raise the **average rating (3.9)**.
+
+---
+
+## 📥 Download the Dashboard
+
+🔗 [Click here to download the `.pbix` file](https://github.com/Kalyani2712/Blinkit-GroceryData-Sales-Analysis-PowerBi-Project/raw/main/Kalyani_PBI_Blinkit_Project.pbix)  
+*(Open using [Power BI Desktop](https://powerbi.microsoft.com/desktop/))*
+
+---
