@@ -1,4 +1,5 @@
 # Blinkit-GroceryData-Sales-Analysis-PowerBi-Project
+![Sales Dashboard](https://raw.githubusercontent.com/Kalyani2712/Blinkit-GroceryData-Sales-Analysis-PowerBi-Project/main/SalesDashboardImage.png)
 
 ## Project Objective:-
 
